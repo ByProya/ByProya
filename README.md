@@ -16,7 +16,7 @@
 > - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byproya)
 > ##### Playlist ótima:
 > - [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-)(https://open.spotify.com/user/31sjkfobnvdsbnh6u3dfzx7etwp4)]
+)](https://open.spotify.com/user/31sjkfobnvdsbnh6u3dfzx7etwp4)
 
 <img src="https://pbs.twimg.com/media/GCi49hcXYAArPrt?format=png&name=small" width="140"> 
 
