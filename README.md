@@ -24,4 +24,3 @@
 > ##### Status:
 > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByProya&show_icons=true&theme=tokyonight)
 
-<img src="https://twitter.com/i/status/1740855193816686920">
