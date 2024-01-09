@@ -11,7 +11,8 @@
 
 
 
-#### Redes sociais:
+> Redes sociais:
+> =
 
  ##### Só de enfeite:  /  Playlist ótima:
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byproya) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
