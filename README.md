@@ -9,11 +9,6 @@
 
 <img src="https://pbs.twimg.com/media/GCi20bwWAAERU2r?format=png&name=small" width="140"> 
 
-
-
-> Redes sociais:
-> =
-
 <img src="https://pbs.twimg.com/media/GCi49hcXYAArPrt?format=png&name=small" width="140"> 
 
 #### Status:
